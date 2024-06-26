@@ -1,7 +1,12 @@
 {
-  "name": "node-starter",
+  "name": "debsdemopackage",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"    
-  }
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/DebCh20/nodeJs-training)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "debasish",
+  "license": "ISC"
 }
